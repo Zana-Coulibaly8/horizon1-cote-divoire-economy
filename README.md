@@ -1,8 +1,8 @@
-# Horizon-001: Côte d'Ivoire Economy
+# Horizon1: Côte d'Ivoire Economy
 
 ## Project Overview
 
-Horizon-001 is an economic data analysis project focused on understanding the macroeconomic evolution of Côte d'Ivoire.
+Horizon1 is an economic data analysis project focused on understanding the macroeconomic evolution of Côte d'Ivoire.
 
 The project explores key economic indicators such as GDP growth, inflation, public debt, employment, and major economic sectors in order to identify trends and provide data-driven insights.
 
@@ -59,7 +59,7 @@ The project uses:
 ## Project Structure
 
 ```text
-horizon-001-cote-divoire-economy
+horizon1-cote-divoire-economy
 
 ├── data
 │   ├── raw
