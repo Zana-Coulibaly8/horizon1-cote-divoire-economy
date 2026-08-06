@@ -65,17 +65,18 @@ horizon1-cote-divoire-economy
 │   ├── raw
 │   └── processed
 
-├── notebooks
-
 ├── images
 
+├── notebooks
+
 ├── src
+
+└── README.md
 
 ├── journal.md
 
 ├── requirements.txt
 
-└── README.md
 ```
 
 
